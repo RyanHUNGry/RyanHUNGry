@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Student @ UCSD
 ---------------------------
 
-Greetings yall! My name is Ryan and I'm a second year data science student at UCSD! I'm a great enthusiast of machine learning and data analysis in the fields of education, healthcare, and social good. Lately, I've been trying to branch out to different fields of computation, particularly in the field of software engineering. Currently, I'm completing a SWE @ ProkoTech LLC.
+Greetings yall! My name is Ryan and I'm a second year data science student at UCSD! I'm a great enthusiast of machine learning and data analysis in the fields of education, healthcare, and social good. Lately, I've been trying to branch out to different fields of computation, particularly in the field of software engineering. Currently, I'm completing a SWE internship @ ProkoTech LLC.
 
 For any inquiries, please contact me at my email: ryhung@ucsd.edu
 
