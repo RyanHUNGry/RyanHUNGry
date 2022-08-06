@@ -9,7 +9,7 @@ Greetings yall! My name is Ryan and I'm a second year data science student at UC
 For any inquiries, please contact me at my email: ryhung@ucsd.edu
 
 * 🌍  I'm based in San Jose
-* ✉️  You can contact me at [ryhung@ucsd.edu](mailto:ryhung@ucsd.edu)
+* ✉️  You can contact me @ [ryhung@ucsd.edu](mailto:ryhung@ucsd.edu)
 * 🧠  I'm learning mobile app development
 * 🤝  I'm open to collaborating on sports analytic projects and NLP
 
