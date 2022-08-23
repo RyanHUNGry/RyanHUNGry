@@ -11,7 +11,7 @@ For any inquiries, please contact me at my email: ryhung@ucsd.edu
 * 🌍  I'm based in San Jose
 * ✉️  You can contact me @ [ryhung@ucsd.edu](mailto:ryhung@ucsd.edu)
 * 🧠  I'm learning mobile app development, cloud technologies, and ML
-* 🤝  I'm open to collaborating on sports analytic projects and NLP
+* 🤝  I'm open to collaborating on sports analysis, NLP, more!
 
 <a href="https://www.github.com/RyanHUNGry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RyanHUNGry?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a>
