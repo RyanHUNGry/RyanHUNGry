@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Hung
 =================================================================================================================================
 
-Data Science Student @ UCSD
+Data science student, researcher, and engineer @ UCSD
 ---------------------------
 
 Greetings yall! My name is Ryan and I'm a second year data science student at UCSD! I'm a great enthusiast of machine learning and data analysis in the fields of education, healthcare, and social good. Lately, I've been trying to branch out to different fields of computation, particularly in the field of software engineering. Currently, I'm completing a SWE internship @ ProkoTech LLC. I'm also conducting video conferencing QoE research as a data science assistant for CAIDA!
