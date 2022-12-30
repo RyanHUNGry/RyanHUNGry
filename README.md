@@ -8,41 +8,27 @@ Greetings yall! My name is Ryan and I'm a second year data science student at UC
 
 For any inquiries, please contact me at my email: ryhung@ucsd.edu
 
-* 🌍  I'm based in San Jose
-* ✉️  You can contact me @ [ryhung@ucsd.edu](mailto:ryhung@ucsd.edu)
-* 🧠  I'm learning mobile app development, cloud technologies, and ML
-* 🤝  I'm open to collaborating on sports analysis, NLP, more!
-
-<a href="https://www.github.com/RyanHUNGry" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RyanHUNGry?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+# 💫 About Me:
+🌍  I'm based in San Jose<br>✉️  You can contact me @ ryhung@ucsd.edu<br>🧠  I'm passionate about web development, machine learning, and software engineering practices!<br>🤝  I'm open to collaborating full-stack development, machine learning notebooks and data modeling, or Hackathons!
 
 
-### Socials
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-hung1/) 
 
-<p align="left"> <a href="https://www.github.com/RyanHUNGry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RyanHUNGry&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RyanHUNGry&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHUNGry&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Badges
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RyanHUNGry&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-<b>My GitHub Stats</b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<a href="http://www.github.com/RyanHUNGry"><img src="https://github-readme-stats.vercel.app/api?username=RyanHUNGry&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="RyanHUNGry's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=RyanHUNGry&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/RyanHUNGry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanHUNGry&stroke=ef4444&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="http://www.github.com/RyanHUNGry"><img src="https://activity-graph.herokuapp.com/graph?username=RyanHUNGry&bg_color=312e81&color=ef4444&line=0891b2&point=ef4444&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/RyanHUNGry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHUNGry&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
