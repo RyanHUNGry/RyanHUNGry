@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data science student @ UCSD
 ---------------------------
 
-Greetings yall! My name is Ryan and I'm a second year data science student at UCSD! I'm a great enthusiast of machine learning and data analysis in the fields of education, healthcare, and social good. Lately, I've been trying to branch out to different fields of computation, particularly in the field of software engineering.
+Greetings everyone!
 
-For any inquiries, please contact me at my email: ryhung@ucsd.edu
+I'm Ryan, a third-year data science student at UCSD. Through my academics and work experiences, I've gained a keen interest at the intersection of software engineering and ML modeling.
 
-# 💫 About Me:
-🌍  I'm based in San Jose<br>✉️  You can contact me @ ryhung@ucsd.edu<br>🧠  I'm passionate about web development, machine learning, and software engineering practices!<br>🤝  I'm open to collaborating full-stack development, machine learning notebooks and data modeling, or Hackathons!
+If you have any questions or inquiries, feel free to reach out to me at ryhung@ucsd.edu.
 
+💫 About Me:
+🌍 Location: San Jose<br>
+✉️ Email: ryhung@ucsd.edu<br>
+🧠 Interests: Web development, machine learning, and software engineering practices!<br>
+🤝 Collaboration: I'm open to collaborating on projects involving full-stack development, machine learning notebooks, data modeling, or participating in Hackathons!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-hung1/) 
