@@ -13,7 +13,7 @@ If you have any questions or inquiries, feel free to reach out to me at ryhung@u
 💫 About Me:
 🌍 Location: San Jose<br>
 ✉️ Email: ryhung@ucsd.edu<br>
-🧠 Interests: Web development, machine learning, and software engineering practices!<br>
+🧠 Interests: Infrastructure, backend, and DevOps!<br>
 🤝 Collaboration: I'm open to collaborating on projects involving full-stack development, machine learning notebooks, data modeling, or participating in Hackathons!
 
 ## 🌐 Socials:
