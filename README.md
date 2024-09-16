@@ -6,7 +6,7 @@ Data science student @ UCSD
 
 Greetings everyone!
 
-I'm Ryan, a third-year data science student at UCSD. Through my academics and work experiences, I've gained a keen interest at the intersection of software engineering and ML modeling.
+I'm Ryan, a fourth-year data science student at UCSD. Through my academics and work experiences, I've gained a keen interest at the intersection of software engineering and ML modeling.
 
 If you have any questions or inquiries, feel free to reach out to me at ryhung@ucsd.edu.
 
