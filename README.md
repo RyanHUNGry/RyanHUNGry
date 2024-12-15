@@ -6,15 +6,15 @@ Data science student @ UCSD
 
 Greetings everyone!
 
-I'm Ryan, a data science student at UCSD. Through my academics and work experiences, I've gained a keen interest at the intersection of software engineering and ML modeling.
+I'm Ryan, a data science student at UCSD. Through my academics and work experiences, I've gained a keen interest at the intersection of software engineering and AI/ML.
 
 If you have any questions or inquiries, feel free to reach out to me at ryhung@ucsd.edu.
 
 💫 About Me:<br>
 🌍 Location: San Jose<br>
 ✉️ Email: ryhung@ucsd.edu<br>
-🧠 Interests: Infrastructure, backend, and DevOps!<br>
-🤝 Collaboration: I'm open to collaborating on projects involving full-stack development, machine learning notebooks, data modeling, or participating in Hackathons!
+🧠 Interests: Infrastructure, backend development, deep learning and MLOps<br>
+🤝 Collaboration: I'm open to collaborating on projects involving large-scale backend systems and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-hung1/) 
