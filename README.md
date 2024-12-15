@@ -10,7 +10,7 @@ I'm Ryan, a data science student at UCSD. Through my academics and work experien
 
 If you have any questions or inquiries, feel free to reach out to me at ryhung@ucsd.edu.
 
-💫 About Me:
+💫 About Me:<br>
 🌍 Location: San Jose<br>
 ✉️ Email: ryhung@ucsd.edu<br>
 🧠 Interests: Infrastructure, backend, and DevOps!<br>
